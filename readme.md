@@ -1,4 +1,4 @@
-# JavaScript Group Exam
+# JavaScript Group TEST
 
 Please do the tasks inside the script tag in the HTML file, or copy it inside the HTML file at the end. You should only hand in an HTML file to EBR here: [http://webprogramozas.inf.elte.hu/ebr/public/index.php](http://webprogramozas.inf.elte.hu/ebr/public/index.php)
 
